@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:checkable="true"
+        android:id="@+id/action_keranjang"
+        android:icon="@drawable/keranjang"
+        android:title="Keranjang"/>
+
+    <item
+        android:checkable="true"
+        android:id="@+id/action_home"
+        android:checked="true"
+        android:icon="@drawable/store"
+        android:title="Stores"/>
+
+    <item
+        android:checkable="true"
+        android:id="@+id/action_profil"
+        android:icon="@drawable/profil"
+        android:title="Profil"/>
+
+</menu>

@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">The Stores</string>
+
+    <string-array name="array_prod">
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+        <item>Produk 1</item>
+    </string-array>
+
+    <string name="komposisi">
+        bahan-bahan kami semuanya terbuat dari bahan yang halal nan terpercaya, karena kami menggunakan bahan
+        makanan yang sesuai denga rekomendasi MUI pusat, adapun bahan-bahannya yaitu
+
+        1. Tepung terigu
+        2. Minyak nabati
+        3. Singkong serut
+        4. perisa balado
+    </string>
+
+    <string name="descProd">
+        Keripik singkong lembut adalah keripik terobosan terbaru dari toko akil, kenapa?, karena kerupuk
+        yang kami sediakan adalah kerupuk terlembut yang pernah ada, cara kami mebuat tidak dengan potongan-potongan
+        sebagai mana cara umumnya, kami memiliki alat khusus utnuk menyerut sehingga mengahasilkan prosuk yang sangat
+        berkualitas dan terjamin dari segi heginis-nya
+    </string>
+</resources>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/thebestone/.android/build-cache/cd9b54d5fd64b7a3b38e38618c1f695d4c7fef0e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/pre-dexed/debug/classes_027e41f085f39f21a67ad500dd33fa439b3d39ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thebestone/.android/build-cache/13c485f6385dc5b7327f83e930eb106d3ef00ac7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/pre-dexed/debug/classes_3fd459119ae9799730d4c82d8cbee964ab7d93b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thebestone/.android/build-cache/cb5edd12e404c0b8fdd86c4ab0613be5a60a1f9f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/pre-dexed/debug/classes_99274be314805e85c60c3d0f15e0eb40d0f6c9f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thebestone/.android/build-cache/5038d7a4403cfb3a84f45b2aa4451af87a3f93a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/pre-dexed/debug/classes_f2cf265bbcba670da79a7c73977f66b9375b102c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thebestone/.android/build-cache/0ae34b206480327053fcb48238b6d02df151aaa1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/pre-dexed/debug/classes_4389bf166ae9541db71e090f55db4311dfb48401.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thebestone/.android/build-cache/dc5cde0f41bb7557cfbc1b2ba0283f60afae4b8b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
+        <dex dex="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/pre-dexed/debug/classes_e59b43a8ccfb0cc7c980e87adbcf53aa8106572f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thebestone/.android/build-cache/992762894afe147f2da34f37220684e1fdf63638/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/pre-dexed/debug/classes_db1339a9ca3979e39f67bafd438b13d9d122f83b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thebestone/.android/build-cache/93877be554fd43f57c50be21720fc255026905fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/pre-dexed/debug/classes_3f40829f7c7a4de0a4a1f3d71b14ed9d38353ddb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da6c54a06380dd470a3dac89f4df19393cda6c8d">
+        <dex dex="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_901479abfb3cf26774c0968b8d00cebfbfc73a60/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thebestone/.android/build-cache/d3dc1a312cefa04ccf21cd61d66671e45b2ed432/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/pre-dexed/debug/classes_c7d7e75d70a0319ff4a01f073cb17387e805d72e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thebestone/.android/build-cache/2c48a1afd8c5960f889a6104485a1f82975122e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/pre-dexed/debug/classes_ff722bda0bb287a5a994cb68e0f501996de2ebcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thebestone/.android/build-cache/64ab2bf7fbf201446ea4dee6a4113cdb6e2aa3c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/pre-dexed/debug/classes_92842fbe0ae9828ccaff37798c595e62275e5df7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thebestone/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_58d5782deff422d423efde5c47e28940c3ea69f1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e4d6e205d1f25de0541d8f44f4f04bbab29ec957/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thebestone/.android/build-cache/a951c940f6dc5fa1b47bf7260cc1fe07626c534e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/pre-dexed/debug/classes_2884e77cfa3459ca4ec098446dcb2e9a4566fa23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thebestone/.android/build-cache/c86bf431abbc4d59b097043e748bb993b723dbb8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/pre-dexed/debug/classes_da10cc6a82a2108f73f2183f3b36a594cf5c7689.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thebestone/.android/build-cache/fb49d383d9ab400f9b99a0c3ebcfd74cb3c5b00c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/pre-dexed/debug/classes_7d5f1a3ee81bb621f3f72484a1f9df2c7bef85c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thebestone/.android/build-cache/3293089b910b58f5620c0a3dfdafada2f322e58c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/pre-dexed/debug/classes_6757af8c8b322e712782123d1840d5122b742aa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thebestone/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_5e5374b7404e1a50e4e424813ee205b7ed953322.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thebestone/.android/build-cache/34feb964145c5d9015eea4089eb588bb8d1c5ac1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/thebestone/AndroidStudioProjects/TheStores/app/build/intermediates/pre-dexed/debug/classes_f0821a9095780e6701dbee7a290a2eb6c68f8fcc.jar" />
+    </item>
+
+</items>

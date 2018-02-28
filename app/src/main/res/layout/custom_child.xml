@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:gravity="center">
+
+    <android.support.v7.widget.CardView
+        app:cardCornerRadius="6dp"
+        android:layout_margin="7dp"
+        app:cardElevation="7dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <!--<android.support.design.widget.FloatingActionButton
+                android:id="@+id/btnAdd"
+                android:src="@drawable/add"
+                android:layout_centerInParent="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />-->
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/imgProdChild"
+                    android:scaleType="centerCrop"
+                    android:layout_weight="1"
+                    android:src="@drawable/produk1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:padding="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <LinearLayout
+                        android:layout_weight="1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_gravity="center_vertical"
+                            android:id="@+id/imgToko"
+                            android:src="@mipmap/ic_launcher"
+                            android:layout_width="20dp"
+                            android:layout_height="20dp" />
+
+                        <LinearLayout
+                            android:layout_marginLeft="5dp"
+                            android:id="@+id/linierToko"
+                            android:layout_gravity="center_vertical"
+                            android:orientation="vertical"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:ems="10"
+                                android:singleLine="true"
+                                android:id="@+id/tProdukNameChild"
+                                android:textSize="12sp"
+                                android:text="Produk"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+
+                            <TextView
+                                android:ems="10"
+                                android:singleLine="true"
+                                android:id="@+id/tStoreNameChild"
+                                android:textSize="12sp"
+                                android:text="Produk"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_marginLeft="5dp"
+                        android:id="@+id/tPriceChild"
+                        android:textSize="12sp"
+                        android:paddingTop="5dp"
+                        android:paddingBottom="5dp"
+                        android:paddingRight="10dp"
+                        android:paddingLeft="10dp"
+                        android:textColor="#FFFF"
+                        android:background="@drawable/bg_price"
+                        android:layout_gravity="center_vertical"
+                        android:text="14K/1pcs"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+            <View
+                android:background="@color/colorPrimary"
+                android:layout_alignParentBottom="true"
+                android:layout_width="match_parent"
+                android:layout_height="4dp"/>
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+
+        <com.balysv.materialripple.MaterialRippleLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:src="@drawable/back"
+                android:padding="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+
+        </com.balysv.materialripple.MaterialRippleLayout>
+
+        <TextView
+            android:layout_centerInParent="true"
+            android:textStyle="bold"
+            android:textColor="#FFF"
+            android:textSize="16sp"
+            android:text="List Langganan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </RelativeLayout>
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tabPesananRutin"
+        app:tabMode="scrollable"
+        android:scrollbars="horizontal"
+        app:tabTextColor="#FFF"
+        app:tabSelectedTextColor="#FFF"
+        app:tabIndicatorColor="#FFF"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+
+
+        <android.support.design.widget.TabItem
+            android:text="Senin"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+
+        <android.support.design.widget.TabItem
+            android:text="Selasa"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+
+        <android.support.design.widget.TabItem
+            android:text="Rabu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+
+        <android.support.design.widget.TabItem
+            android:text="Kamis"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+
+        <android.support.design.widget.TabItem
+            android:text="Jumat"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+
+        <android.support.design.widget.TabItem
+            android:text="Sabtu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+
+        <android.support.design.widget.TabItem
+            android:text="Minggu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </android.support.design.widget.TabLayout>
+
+    <include layout="@layout/content_selesainpesan"/>
+
+</LinearLayout>
